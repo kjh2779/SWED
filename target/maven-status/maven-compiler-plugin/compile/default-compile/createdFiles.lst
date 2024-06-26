@@ -1,0 +1,12 @@
+com\mycompany\swed2\notification\Notification.class
+com\mycompany\swed2\main\Swed2.class
+com\mycompany\swed2\main\WebsiteMonitorSystem.class
+com\mycompany\swed2\website\Subscription.class
+com\mycompany\swed2\user\User.class
+com\mycompany\swed2\website\Website.class
+com\mycompany\swed2\notification\Observer.class
+com\mycompany\swed2\utils\Frequency.class
+com\mycompany\swed2\notification\NotificationManager.class
+com\mycompany\swed2\user\NotificationPreferences.class
+com\mycompany\swed2\notification\CommunicationChannel.class
+com\mycompany\swed2\notification\Subject.class
