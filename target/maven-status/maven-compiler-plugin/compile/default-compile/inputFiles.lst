@@ -1,12 +1,5 @@
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\website\Website.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\notification\CommunicationChannel.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\notification\Notification.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\user\User.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\utils\Frequency.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\user\NotificationPreferences.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\website\Subscription.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\main\Swed2.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\notification\Subject.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\main\WebsiteMonitorSystem.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\notification\NotificationManager.java
-C:\Users\kjh27\Documents\NetBeansProjects\swed2\src\main\java\com\mycompany\swed2\notification\Observer.java
+C:\Users\kjh27\Documents\NetBeansProjects\swed3\src\main\java\com\mycompany\swed3\WebsiteMonitor.java
+C:\Users\kjh27\Documents\NetBeansProjects\swed3\src\main\java\com\mycompany\swed3\Subscription.java
+C:\Users\kjh27\Documents\NetBeansProjects\swed3\src\main\java\com\mycompany\swed3\Swed3.java
+C:\Users\kjh27\Documents\NetBeansProjects\swed3\src\main\java\com\mycompany\swed3\User.java
+C:\Users\kjh27\Documents\NetBeansProjects\swed3\src\main\java\com\mycompany\swed3\NotificationService.java
